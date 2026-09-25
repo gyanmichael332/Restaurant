@@ -1,0 +1,6 @@
+{
+  "name": "Savoria Bistro",
+  "description": "Culinary dining app for Savoria Bistro & Lounge with fine dining menus, real-time table reservations, interactive order customizer, cart, and dining rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
